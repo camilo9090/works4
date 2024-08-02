@@ -5,8 +5,8 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    
-    "sass": "gulp css"
+    "css": "gulp css",
+    "dev": "gulp dev"
   },
   "repository": {
     "type": "git",
